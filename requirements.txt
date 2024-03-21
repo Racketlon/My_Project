@@ -1,0 +1,9 @@
+itertools
+os
+socke
+time
+netifaces
+psutil
+pyfiglet
+colorama
+phonenumbers
